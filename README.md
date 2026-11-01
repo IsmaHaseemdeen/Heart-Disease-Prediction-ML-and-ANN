@@ -219,7 +219,7 @@ The results were compared with baseline model performance to assess the effects 
 
 ### Conventional ML Comparison
 
-![Machine Learning Model Comparison](images/ml-model-comparison.png)
+![Machine Learning Model Comparison](images/ml-model-comparison.png.jpg)
 
 The analysis also considers signs of overfitting and underfitting when comparing training and evaluation results.
 
@@ -291,7 +291,7 @@ The notebook combines conventional ML results and ANN results to compare:
 - F1 Score
 - ROC-AUC
 
-![Final Machine Learning and ANN Comparison](images/final-model-comparison.png)
+![Final Machine Learning and ANN Comparison](images/final-model-comparison.png.jpg)
 
 The comparison examines whether a more complex neural network offers meaningful improvements relative to conventional algorithms.
 
